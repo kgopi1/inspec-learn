@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/learn-chef/inspec/master/docker-compose.yml
